@@ -1,0 +1,67 @@
+{
+  "name": "react-assignment",
+  "description": "Assignment for interview candidates.",
+  "version": "0.1.0",
+  "engines": {
+    "node": "^16"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "Side Inc.",
+  "dependencies": {
+    "@anatoliygatt/heart-switch": "^1.0.2",
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "@material-ui/core": "^4.12.3",
+    "@material/card": "^13.0.0",
+    "axios": "^0.26.1",
+    "bootstrap": "^5.1.3",
+    "moment": "^2.29.1",
+    "react": "17.0.2",
+    "react-animated-heart": "^0.0.7-alpha.1",
+    "react-bootstrap": "^2.2.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "react-router": "6.2.2",
+    "react-router-dom": "6.2.2",
+    "react-select": "^5.2.2",
+    "web-vitals": "2.1.4"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "5.16.3",
+    "@testing-library/react": "12.1.4",
+    "@testing-library/user-event": "13.5.0",
+    "css-loader": "^6.7.1",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
+    "prettier": "2.6.1",
+    "react-scripts": "5.0.0",
+    "style-loader": "^3.3.1"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "license": "UNLICENSED",
+  "private": false
+}
